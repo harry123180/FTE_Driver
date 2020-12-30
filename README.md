@@ -14,4 +14,12 @@ FTE控制器、架構、通訊、接線、範例程式、操作說明
 
 ![image](https://github.com/harry123180/FTE_Driver/blob/main/%E4%B8%BB%E6%8E%A7%E5%99%A8%E5%9C%96%E7%A4%BAMain%20controller%20Diagram.png)
 
+接下來介紹驅動器，驅動器的功用是連接馬達，控制馬達的轉角、或轉速，以下圖是驅動器。
+驅動器實際圖示
+
+![image](https://github.com/harry123180/FTE_Driver/blob/main/%E9%A9%85%E5%8B%95%E5%99%A8%E8%85%B3%E4%BD%8D%E5%9C%96Driver%20Pin%20Diagram.jpg)
+
+驅動器腳位示意圖
+
+![image](https://github.com/harry123180/FTE_Driver/blob/main/%E9%A9%85%E5%8B%95%E5%99%A8%E5%9C%96%E7%A4%BADriver%20Diagram.png)
 
