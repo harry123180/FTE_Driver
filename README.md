@@ -23,3 +23,6 @@ FTE控制器、架構、通訊、接線、範例程式、操作說明
 
 ![image](https://github.com/harry123180/FTE_Driver/blob/main/%E9%A9%85%E5%8B%95%E5%99%A8%E5%9C%96%E7%A4%BADriver%20Diagram.png)
 
+以下是整體系統的接線圖
+
+![image](https://github.com/harry123180/FTE_Driver/blob/main/%E7%B3%BB%E7%B5%B1%E7%B7%9A%E8%B7%AFSystem%20Wiring%20Diagram.png)
