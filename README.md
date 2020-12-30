@@ -30,6 +30,6 @@ FTE控制器、架構、通訊、接線、範例程式、操作說明
 
 以下是整體系統的接線圖
 
-![image](https://github.com/harry123180/FTE_Driver/blob/main/%E7%B3%BB%E7%B5%B1%E7%B7%9A%E8%B7%AFSystem%20Wiring%20Diagram.png)
+![image](https://github.com/harry123180/FTE_Driver/blob/main/%E5%9C%96%E6%AA%94/%E7%B3%BB%E7%B5%B1%E7%B7%9A%E8%B7%AFSystem%20Wiring%20Diagram.png)
 
 阿基本上齁，線接對，範例程式KEY上去，就可以動ㄌ
