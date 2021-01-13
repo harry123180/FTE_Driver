@@ -1,5 +1,5 @@
 import serial #導入serial 串列模塊
-COM_PORT = '/dev/ttyUSB0'  # 請自行修改序列埠名稱
+COM_PORT = 'COM5'  # 請自行修改序列埠名稱
 BAUD_RATES = 115200
 ser = serial.Serial(COM_PORT, BAUD_RATES) #設定串列傳輸物件 名稱就叫ser
 spd = [0,0,0,0] # spd的數量代表你有幾顆馬達要讀 像這邊定義了四個 代表你有四個馬達要讀
